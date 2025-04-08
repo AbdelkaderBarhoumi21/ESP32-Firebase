@@ -13,14 +13,14 @@
 #define WIFI_PASSWORD "R53600-GTX1660SUPER-2024--"
 
 // Clé API de votre projet Firebase
-#define API_KEY "AIzaSyCpUHKWwtveIxHutgpJ3V2R4GY0H_wD7XM"
+#define API_KEY "your owen token"
 
 // Email et mot de passe autorisés
 #define USER_EMAIL "abdelkader21@gmail.com"
 #define USER_PASSWORD "1234560987"
 
 // URL de la RTDB
-#define DATABASE_URL "https://projet-ameni-default-rtdb.europe-west1.firebasedatabase.app/"
+#define DATABASE_URL "your owen link in realtimedatabse"
 
 // Définir les objets Firebase
 FirebaseData fbdo;
